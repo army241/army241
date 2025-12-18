@@ -26,7 +26,8 @@ I am currently building my skills in front-end development, C++ programming, and
 - LinkedIn: (Add your LinkedIn profile link if available) 
 
 ## 🔗 Connect With Me
-[Telegram](https://t.me/Noistiwares) | [Instagram](https://www.instagram.com/army24_1) | [GitHub](https://github.com/army241)
+[Telegram](https://t.me/Noistiwares) | [Instagram](https://www.instagram.com/army24_1) | [GitHub](https://github.com/army241) | [Twitter](https://twitter.com/your_twitter_handle)
+
 
 
 > “Striving to build practical skills, grow as a developer, and create impactful projects.”
