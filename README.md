@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Serawit Shimelis 👋
+### Second-Year Computer Science Student | Aspiring Front-End & Back-End Developer
 
-<!--
-**army241/army241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I am a motivated second-year Computer Science student at Addis Ababa University with a 3.96 CGPA.  
+I am passionate about software development, web design, and problem-solving**.  
+I am currently building my skills in front-end development, C++ programming, and Python algorithm practice.  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Programming Languages: C++, Python  
+- Web Development: HTML, CSS, Responsive Web Design (freeCodeCamp)  
+- Tools & Platforms: Git, GitHub, VS Code  
+- Learning Goals: React, Modern Front-End Frameworks, Back-End Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Projects & Coursework
+- Responsive Web Design Projects – built multiple web pages with HTML & CSS (freeCodeCamp)  
+- C++ Class-Based Projects – university coursework using object-oriented programming  
+- LeetCode Practice – solving basic algorithm problems using Python  
+
+## 🌐 Portfolio  
+- Github for my Portfolio Website: (https://github.com/army241/my_portfolio_code)
+- My website Github repo: (https://github.com/army241/personal_portfolio)
+
+## 📫 Contact Me
+- Email: serawitshimelis1998@gmail.com  
+- LinkedIn: (Add your LinkedIn profile link if available) 
+
+## 🔗 Connect With Me
+[Telegram](https://t.me/Noistiwares) | [Instagram](https://www.instagram.com/army24_1) | [GitHub](https://github.com/army241)
+
+
+> “Striving to build practical skills, grow as a developer, and create impactful projects.”
