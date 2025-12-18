@@ -2,8 +2,8 @@
 ### Second-Year Computer Science Student | Aspiring Front-End & Back-End Developer
 
 ## 🎓 About Me
-I am a motivated second-year Computer Science student at Addis Ababa University with a 3.96 CGPA.  
-I am passionate about software development, web design, and problem-solving**.  
+I am a motivated second-year Computer Science student at Addis Ababa University .  
+I am passionate about software development, web design, and problem-solving.  
 I am currently building my skills in front-end development, C++ programming, and Python algorithm practice.  
 
 ## 💻 Skills
