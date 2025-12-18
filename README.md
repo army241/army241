@@ -20,12 +20,9 @@ I am currently building my skills in front-end development, C++ programming, and
 ## 🌐 Portfolio  
 - Github for my Portfolio Website: (https://github.com/army241/my_portfolio_code)
 - My website Github repo: (https://github.com/army241/personal_portfolio)
-
-## 📫 Contact Me
-- Email: serawitshimelis1998@gmail.com  
-- LinkedIn: (Add your LinkedIn profile link if available) 
-
+  
 ## 🔗 Connect With Me
+- Email: serawitshimelis1998@gmail.com
 [Telegram](https://t.me/Noistiwares) | [Instagram](https://www.instagram.com/army24_1) | [GitHub](https://github.com/army241) | [Twitter](https://twitter.com/your_twitter_handle)
 
 
