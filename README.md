@@ -26,7 +26,10 @@ I enjoy exploring new concepts and learning through hands-on practice, continuou
 - My website Github repo: (https://github.com/army241/personal_portfolio)
   
 ## 🔗 Connect With Me
+
 - Email: serawitshimelis1998@gmail.com
+-Discord: @army24_1
+-Telegram_channel: (https://t.me/Army_bytes)
 [Telegram](https://t.me/Noistiwares) | [Instagram](https://www.instagram.com/army24_1) | [GitHub](https://github.com/army241) | [Twitter](https://twitter.com/your_twitter_handle)
 
 
