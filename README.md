@@ -6,6 +6,10 @@ I am a motivated second-year Computer Science student at Addis Ababa University 
 I am passionate about software development, web design, and problem-solving.  
 I am currently building my skills in front-end development, C++ programming, and Python algorithm practice.  
 
+## 🌱 Curiosity in AI & Robotics
+I am curious about how intelligent systems work and how machines can learn and adapt.  
+I enjoy exploring new concepts and learning through hands-on practice, continuously improving my skills.
+
 ## 💻 Skills
 - Programming Languages: C++, Python  
 - Web Development: HTML, CSS, Responsive Web Design (freeCodeCamp)  
