@@ -22,8 +22,8 @@ I enjoy exploring new concepts and learning through hands-on practice, continuou
 - LeetCode Practice – solving basic algorithm problems using Python  
 
 ## 🌐 Portfolio  
-- Github for my Portfolio Page: (https://github.com/army241/my_portfolio_code)
--  Personal website Github repo: (https://github.com/army241/personal_portfolio)
+- Github-Portfolio Page: (https://github.com/army241/SerawitShimelis_Portfolio)
+-  Personal live website: (https://army241.github.io/serawit-shimelis-website.github.io/my_website.html))
   
 ## 🔗 Connect With Me
 
