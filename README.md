@@ -28,7 +28,7 @@ I enjoy exploring new concepts and learning through hands-on practice, continuou
 ## 🔗 Connect With Me
 
 - Email: serawitshimelis1998@gmail.com
-- Linkedln: (https://www.linkedin.com/in/serawit-shimelis-76401739b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Linkedln: (https://www.linkedin.com/in/serawit-shimelis-5b764a3b7)
 - Discord: @army24_1
 - Telegram_channel: (https://t.me/Army_bytes)
 [Telegram](https://t.me/Noistiwares) | [Instagram](https://www.instagram.com/army24_1) | [Twitter](https://twitter.com/your_twitter_handle)
