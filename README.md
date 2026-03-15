@@ -1,29 +1,36 @@
-# Hi, I'm Serawit Shimelis 👋
-### Second-Year Computer Science Student | Aspiring Front-End & Back-End Developer
-
+## Hi, I'm Serawit Shimelis 👋
+Second-Year Computer Science Student | Aspiring Full-Stack Developer
 ## 🎓 About Me
-I am a motivated second-year Computer Science student at Addis Ababa University .  
-I am passionate about software development, web design, and problem-solving.  
-I am currently building my skills in front-end development, C++ programming, and Python algorithm practice, while learning Computer Science fundamentals through CS50x – Introduction to Computer Science (Harvard University).
 
-## 🌱 Curiosity in AI & Robotics
-I am curious about how intelligent systems work and how machines can learn and adapt.  
-I enjoy exploring new concepts and learning through hands-on practice, continuously improving my skills.
+I am a motivated second-year Computer Science student at Addis Ababa University.
+I am passionate about software development, web development, and problem-solving.
+
+I have completed the Responsive Web Design and JavaScript Algorithms and Data Structures courses on freeCodeCamp, where I built several projects and strengthened my understanding of front-end development and programming concepts.
+
+Currently, I am continuing to improve my programming and development skills while learning Computer Science fundamentals through CS50x – Introduction to Computer Science by Harvard University.
+
+## 🌱 Curiosity in AI & Machine Learning
+
+I am highly curious about Artificial Intelligence and Machine Learning and how intelligent systems learn from data.
+I have recently started exploring AI and ML courses online, aiming to understand the fundamentals and gradually build practical projects in this field.
 
 ## 💻 Skills
-- Programming Languages: C++, Python  
-- Web Development: HTML, CSS, Responsive Web Design (freeCodeCamp)  
-- Tools & Platforms: Git, GitHub, VS Code  
-- Learning Goals: React, Modern Front-End Frameworks, Back-End Development  
+
+- Programming Languages: C++, Python, JavaScript
+- Web Development: HTML, CSS, Responsive Web Design, JavaScript
+- Tools & Platforms: Git, GitHub, VS Code
+- Learning Goals: React, Modern Front-End Frameworks, Back-End Development, Artificial Intelligence & Machine Learning
 
 ## 🛠️ Projects & Coursework
-- Responsive Web Design Projects – built multiple web pages with HTML & CSS (freeCodeCamp)  
-- C++ Class-Based Projects – university coursework using object-oriented programming  
-- LeetCode Practice – solving basic algorithm problems using Python  
+
+- Responsive Web Design Projects – Built multiple web pages using HTML & CSS (freeCodeCamp)
+- JavaScript Projects – Built interactive web applications and practiced algorithm challenges (freeCodeCamp)
+- C++ Class-Based Projects – University coursework using object-oriented programming
+- LeetCode Practice – Solving algorithm problems using Python 
 
 ## 🌐 Portfolio  
 - Github-Portfolio Page: (https://github.com/army241/SerawitShimelis_Portfolio)
--  Personal live website: (https://army241.github.io/serawit-shimelis-website.github.io/my_website.html))
+- Personal live website: (https://army241.github.io/serawit-shimelis-website.github.io/my_website.html))
   
 ## 🔗 Connect With Me
 
