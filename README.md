@@ -1,7 +1,7 @@
 Hi I am Serawit Shimelis
 ## 👨‍💻 About Me
 
-second-year Computer Science student at Addis Ababa University with a strong interest in software development, problem-solving, and emerging technologies. I am currently transitioning from foundational web development into more advanced areas, including Artificial Intelligence, Machine Learning, and Cybersecurity.
+A second-year Computer Science student at Addis Ababa University with a strong interest in software development, problem-solving, and emerging technologies. I am currently transitioning from foundational web development into more advanced areas, including Artificial Intelligence, Machine Learning, and Cybersecurity.
 
 I have completed the Responsive Web Design and JavaScript Algorithms and Data Structures certifications on freeCodeCamp, where I built multiple projects and developed a solid understanding of front-end development and core programming concepts.
 
