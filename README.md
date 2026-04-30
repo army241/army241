@@ -1,45 +1,69 @@
-## Hi, I'm Serawit Shimelis 👋
-Second-Year Computer Science Student | Aspiring Full-Stack Developer
-## 🎓 About Me
+Hi I am Serawit Shimelis
+## 👨‍💻 About Me
 
-I am a motivated second-year Computer Science student at Addis Ababa University.
-I am passionate about software development, web development, and problem-solving.
+second-year Computer Science student at Addis Ababa University with a strong interest in software development, problem-solving, and emerging technologies. I am currently transitioning from foundational web development into more advanced areas, including Artificial Intelligence, Machine Learning, and Cybersecurity.
 
-I have completed the Responsive Web Design and JavaScript Algorithms and Data Structures courses on freeCodeCamp, where I built several projects and strengthened my understanding of front-end development and programming concepts.
+I have completed the Responsive Web Design and JavaScript Algorithms and Data Structures certifications on freeCodeCamp, where I built multiple projects and developed a solid understanding of front-end development and core programming concepts.
 
-Currently, I am continuing to improve my programming and development skills while learning Computer Science fundamentals through CS50x – Introduction to Computer Science by Harvard University.
+Currently, I am strengthening my programming skills in Python through CS50x: Introduction to Computer Science (Harvard University), where I solve structured problem sets focused on algorithmic thinking, data processing, and writing clean, efficient code. These experiences are helping me build a strong foundation for tackling more advanced challenges on platforms like LeetCode.
 
-## 🌱 Curiosity in AI & Machine Learning
+---
 
-I am highly curious about Artificial Intelligence and Machine Learning and how intelligent systems learn from data.
-I have recently started exploring AI and ML courses online, aiming to understand the fundamentals and gradually build practical projects in this field.
+## 🌱 Interests in AI & Machine Learning
+
+I am deeply interested in how intelligent systems learn from data and make decisions. I am actively exploring the fundamentals of Artificial Intelligence and Machine Learning, with the goal of building practical, real-world projects and developing a deeper understanding of these fields.
+
+---
 
 ## 💻 Skills
 
-- Programming Languages: C++, Python, JavaScript
-- Web Development: HTML, CSS, Responsive Web Design, JavaScript
-- Tools & Platforms: Git, GitHub, VS Code
-- Learning Goals: React, Modern Front-End Frameworks, Back-End Development, Artificial Intelligence & Machine Learning
+**Programming Languages**
+- C++
+- Python
+- JavaScript
+
+**Web Development**
+- HTML
+- CSS
+- Responsive Web Design
+- JavaScript
+
+**Tools & Platforms**
+- Git
+- GitHub
+- VS Code
+
+---
+
+## 🎯 Learning Goals
+
+- Artificial Intelligence & Machine Learning
+- Cybersecurity Fundamentals
+- Back-End Development
+- Modern Front-End Frameworks (e.g., React)
+- Advanced Data Structures & Algorithms
+
+---
 
 ## 🛠️ Projects & Coursework
 
-- Responsive Web Design Projects – Built multiple web pages using HTML & CSS (freeCodeCamp)
-- JavaScript Projects – Built interactive web applications and practiced algorithm challenges (freeCodeCamp)
-- C++ Class-Based Projects – University coursework using object-oriented programming
-- LeetCode Practice – Solving algorithm problems using Python 
+- **Responsive Web Design Projects**  
+  Built multiple web pages using HTML and CSS as part of freeCodeCamp certification.
 
-## 🌐 Portfolio  
-- Github-Portfolio Page: (https://github.com/army241/SerawitShimelis_Portfolio)
-- Personal live website: (https://army241.github.io/serawit-shimelis-website.github.io/my_website.html))
-  
-## 🔗 Connect With Me
+- **JavaScript Projects**  
+  Developed interactive web applications and practiced algorithmic problem-solving.
 
-- Email: serawitshimelis1998@gmail.com
-- Linkedln: (https://www.linkedin.com/in/serawit-shimelis-5b764a3b7)
-- Discord: @army24_1
-- Telegram_channel: (https://t.me/Army_bytes)
-[Telegram](https://t.me/Noistiwares) | [Instagram](https://www.instagram.com/army24_1) | [Twitter](https://twitter.com/your_twitter_handle)
+- **C++ OOP Projects**  
+  Completed university coursework focused on object-oriented programming concepts.
 
+- **CS50 Problem Sets (Python)**  
+  Solved structured programming challenges involving data handling, input validation, and algorithmic thinking.
 
+- **LeetCode Practice**  
+  Actively solving algorithm problems using Python to strengthen problem-solving and coding interview skills.
 
-> “Striving to build practical skills, grow as a developer, and create impactful projects.”
+---
+
+## 🚀 Current Focus
+
+I am focused on moving beyond fundamentals by building real-world projects in AI/ML and cybersecurity, while continuously improving my problem-solving ability and writing clean, efficient code.
